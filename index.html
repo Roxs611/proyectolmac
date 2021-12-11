@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "styles/estilo.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+<title>Plantilla CSS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+
+  $("article").hide()
+  $("#inicio").show();
+  $("#menuinicio").click(function(){
+    $("article").hide()
+    $("#inicio").show();
+  });
+
+ $("#menuofimatico").click(function(){
+    $("article").hide()
+    $("#paquete_ofimatico").show();
+  });
+
+  $("#menurecuperacion").click(function(){
+    $("article").hide()
+    $("#recuperacion").show();
+  });
+  $("#menuutilidades").click(function(){
+    $("article").hide()
+    $("#utilidades").show();
+  });
+
+ $("#menuantivirus").click(function(){
+    $("article").hide()
+    $("#antivirus").show();
+  });
+
+ $("#menuportable").click(function(){
+    $("article").hide()
+    $("#portable").show();
+  });
+
+});
+
+</script>
+
+</head>
+<body>
+
+<header>
+  <img src="./img/logo.png" id="imgtitulo">
+  <h2 id="cabecera">Instalación de Software</h2>
+</header>
+<!--Inicio NAV -->
+
+<section class="prueba">
+  <nav>
+    <ul>
+      <li id="menuinicio"><a href="#inicio">Inicio</a></li>
+      <li id="menuofimatico"><a href="#paquete_ofimatico">Paquete ofimático</a></li>
+      <li id="menurecuperacion"><a href="#recuperacion">Recuperación de datos</a></li>
+      <li id="menuutilidades"><a href="#utilidades">Utilidades</a></li>
+      <li id="menuantivirus"><a href="#antivirus">Antivirus</a></li>
+      <li id="menuportable"><a href="#portable">Portable</a></li>
+
+    </ul>
+  </nav>
+  <!--Fin NAV -->
+  <article id="inicio">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/inicio.html"></iframe>
+  </article>
+  <article id="paquete_ofimatico">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/paquete_ofimatico.html"></iframe>
+  </article>
+  <article id="recuperacion">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/recuperacion.html"></iframe>
+  </article>
+  <article id="utilidades">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/utilidades.html"></iframe>
+  </article>
+  <article id="antivirus">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/antivirus.html"></iframe>
+  </article>
+
+  <article id="portable">
+    <iframe style="width:100%; height: 600px; border:none"src="pages/portable.html"></iframe>
+  </article>
+
+</section>
+
+<footer>
+
+  <p>Lenguaje de marcas</p>
+</footer>
+
+</body>
+</html>
