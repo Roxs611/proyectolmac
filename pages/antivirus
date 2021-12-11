@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" href= "styles/page.css">
+<link rel="stylesheet" href= "../styles/page.css">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+   <h1>Antivirus</h1>
+   		<img src="..\img\antivirus\avastlogo.png" style="height: 100px;">
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+	<h2>Instalación en Windows</h2>
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		   	<img src="..\img\antivirus\descargawin.jpg">
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		    <img src="..\img\antivirus\instalacionwin.jpg">
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		    <img src="..\img\antivirus\instalacionwin2.jpg">
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		   	<img src="..\img\antivirus\instalacionwin3.jpg">
+		<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		   	<img src="..\img\antivirus\instalacionwin4.jpg">
+	<h2>Instalación en Ubuntu</h2>
+			<img src="..\img\antivirus\clamtk.png">
+			<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		   		<img src="..\img\antivirus\descargaubu.jpg">
+		   	<p>El primer paso es buscar en el navegador opera portable y descargamos la versión de windows.</p>
+		   		<img src="..\img\antivirus\programaubu.jpg">
+	   </article>
+</section>
+
+</body>
+</html>
