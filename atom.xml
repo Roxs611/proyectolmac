@@ -1,0 +1,47 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://roxs611.github.io/proyectolmac/">
+<id>https://roxs611.github.io/proyectolmac//</id>
+<title>Instalaciones de software en los distintos Sistemas Operativos (Windows/Linux)</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://roxs611.github.io/proyectolmac/atom.xml"/>
+<author>
+<name>Jesús Aguilera Urbano</name>
+</author>
+
+<category term="Antivirus"/>
+<entry>
+<id>https://roxs611.github.io/proyectolmac/pages/antivirus.html</id>
+<title>Antivirus</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Jesús Aguilera Urbano</name>
+</author>
+<summary> En este artículo encontraras información sobre como instalar un Antivirus</summary>
+<link rel="alternate" href="https://roxs611.github.io/proyectolmac//pages/antivirus.html"/>
+</entry>
+
+<entry>
+<id>https://roxs611.github.io/proyectolmac/pages/portable.html</id>
+<title>Portable</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Jesús Aguilera Urbano</name>
+</author>
+<category term="Portable"/>
+<summary> En este artículo encontraras información sobre usar programas portables</summary>
+<link rel="alternate" href="https://roxs611.github.io/proyectolmac/pages/portable.html"/>
+</entry>
+
+<entry>
+<id>https://roxs611.github.io/proyectolmac/</id>
+<title>Ofirmático</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Jesús Aguilera Urbano</name>
+</author>
+<category term="Ofirmático"/>
+<summary> En este artículo encontraras información sobre como instalar un Paquete Ofirmático</summary>
+<link rel="alternate" href="https://roxs611.github.io/proyectolmac/pages/paquete_ofimatico.html"/>
+</entry>
+
+
+</feed>

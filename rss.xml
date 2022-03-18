@@ -1,0 +1,33 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>Proyecto Página Web</title>
+<link>https://roxs611.github.io/proyectolmac/</link>
+<description> Instalaciones de software en los distintos Sistemas Operativos (Windows/Linux) </description>
+<copyright>1º ASIR - LMSGI</copyright>
+<!--  Noticias del canal  -->
+<item>
+<title>Antivirus</title>
+<description>En este artículo encontrará información como instalar un antivirus</description>
+<link>https://roxs611.github.io/proyectolmac/pages/antivirus.html</link>
+<category>Antivirus</category>
+</item>
+
+<item>
+<title>Paquete Ofirmático</title>
+<description>En este artículo encontrará información sobre como instalar un Paquete Ofirmático</description>
+<link>https://roxs611.github.io/proyectolmac/pages/portable.html</link>
+</item>
+<item>
+<title>Aplicación Portable</title>
+<description>En este artículo encontrará información sobre como instalar una Aplicación Portable</description>
+<link>https://roxs611.github.io/proyectolmac/pages/portable.html</link>
+</item>
+<item>
+<title>Recuperar Datos</title>
+<description>En este artículo encontrará información sobre como instalar una Aplicación para Recuperar Datos </description>
+<link>https://roxs611.github.io/proyectolmac/pages/recuperacion.html</link>
+</item>
+
+</channel>
+</rss>
